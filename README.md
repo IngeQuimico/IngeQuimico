@@ -12,5 +12,5 @@ I'm interested in using Python to solve thermodynamics-related problems and deve
 
 Feel free to reach out to me if you're interested in collaborating on thermodynamics projects or if you have any questions!
 
-- 📫 Connect with me on Twitter: [@Inge_Quimico](https://twitter.com/Inge_Quimico).
+- 📫 Connect with me on Instagram: [@juanemiliocastro](https://www.instagram.com/juanemiliocastro/).
 
