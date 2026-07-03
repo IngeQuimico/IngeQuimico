@@ -1,16 +1,13 @@
-I'm @IngeQuimico, a chemical engineer with a passion for thermodynamics. 
-I'm interested in using Python to solve thermodynamics-related problems and develop computational tools to enhance understanding in this field.
+# Hi, I'm Juan Emilio 👋
 
-## About Me
+Chemical Engineering student (UANL) focused on **process design and simulation**.
 
-- 🔬 I'm a chemical engineering student with a focus on thermodynamics.
-- 💻 I enjoy coding in Python and exploring its applications in solving engineering problems.
-- 📚 Currently, I'm learning more about advanced thermodynamics concepts and numerical methods.
-- 🌱 I'm passionate about contributing to open-source projects related to thermodynamics and Python programming.
+- ⚙️ Thermal & mechanical equipment design with Aspen EDR, Compress, and PV Elite
+- 🧪 Process simulation, thermodynamics, and reaction kinetics
+- 🔬 Currently building a digital twin of an anaerobic bioreactor (AM2 model + ESP32 instrumentation) to predict pH and biogas production
+- 🛠️ Tools: Python, Scilab, AutoCAD, Fusion 360, MicroPython
 
-## Get in Touch
+## Contact
 
-Feel free to reach out to me if you're interested in collaborating on thermodynamics projects or if you have any questions!
-
-- 📫 Connect with me on Instagram: [@juanemiliocastro](https://www.instagram.com/juanemiliocastro/).
-
+- 🌐 [ingequimico.com](https://ingequimico.com)
+- ✉️ juanemilio@ingequimico.com
