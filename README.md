@@ -1,6 +1,6 @@
 # Hi, I'm Juan Emilio 👋
 
-Chemical Engineering student (UANL) focused on **process design and simulation**.
+Chemical Engineering student focused on **process design and simulation**.
 
 - ⚙️ Thermal & mechanical equipment design with Aspen EDR, Compress, and PV Elite
 - 🧪 Process simulation, thermodynamics, and reaction kinetics
